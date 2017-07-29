@@ -1,0 +1,5 @@
+In this application is shown:
+1.How to read and write information in txt file
+2.The txt file which I used is in the Demo folder
+3.In order to run the project properly you need to change
+the path of the variable "filePath" according to your path in the computer

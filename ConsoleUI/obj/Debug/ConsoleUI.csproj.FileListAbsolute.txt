@@ -1,0 +1,6 @@
+c:\users\miroslav\documents\visual studio 2017\Projects\TextFileDataAccess\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+c:\users\miroslav\documents\visual studio 2017\Projects\TextFileDataAccess\ConsoleUI\bin\Debug\ConsoleUI.exe
+c:\users\miroslav\documents\visual studio 2017\Projects\TextFileDataAccess\ConsoleUI\bin\Debug\ConsoleUI.pdb
+c:\users\miroslav\documents\visual studio 2017\Projects\TextFileDataAccess\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+c:\users\miroslav\documents\visual studio 2017\Projects\TextFileDataAccess\ConsoleUI\obj\Debug\ConsoleUI.exe
+c:\users\miroslav\documents\visual studio 2017\Projects\TextFileDataAccess\ConsoleUI\obj\Debug\ConsoleUI.pdb
